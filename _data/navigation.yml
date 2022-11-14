@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://kunikrap1994.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/kunikrap1994
 
   # - title: "Projects"
   #   url: /projects/
@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
+  - title: "0부터 시작하는 일기"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "Html"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "Css"
     url: /categories/categories3/
-  - title: "Categories4"
+  - title: "Js"
     url: /categories/categories4/

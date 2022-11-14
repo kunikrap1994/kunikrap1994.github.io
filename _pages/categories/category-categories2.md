@@ -1,5 +1,5 @@
 ---
-title: "Html"
+title: "HTML"
 layout: category
 permalink: /categories/categories2/
 author_profile: true
